@@ -25,6 +25,14 @@ public class BectBoxFragment extends Fragment {
         mBectBox = new BectBox();
         mBectBox.BectBox(getContext());
     }
+
+    /**
+     * 试试看嘿嘿
+     * @param inflater
+     * @param container
+     * @param savedInstanceState
+     * @return
+     */
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
